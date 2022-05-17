@@ -1,0 +1,4 @@
+User creates purchase request
+    - Mortgage company
+    - Solicitor
+    - 
