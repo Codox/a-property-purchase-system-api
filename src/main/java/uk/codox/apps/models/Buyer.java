@@ -23,6 +23,12 @@ public class Buyer {
     @Column(unique = true)
     private UUID uuid;
 
+    @Column()
+    private String forename;
+
+    @Column()
+    private String surname;
+
     @CreationTimestamp
     private LocalDateTime createdAt;
 
